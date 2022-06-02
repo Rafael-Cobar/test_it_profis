@@ -1,0 +1,12 @@
+.formulario {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: thin solid #00000050;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+input {
+    margin-top: 2rem;
+}
